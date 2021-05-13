@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm currently an undergraduate student in the School of Economics and Management, Tongji University supervised by Dr. Wang Xiaolei. This fall, I'm going to continue my PhD study in the Department of Civil and Environmental Engineering, National University of Singapore advised by Dr. Liu Yang in the field of transportation research.
+I'm currently an undergraduate student at Tongji University supervised by Dr. Wang Xiaolei. Months later, I will enroll in the National University of Singapore as a research engineer and PhD student advised by Dr. Liu Yang in CEE.
 
 My research interests mainly concerning network modeling and optimization and their implementation in transportation research, especially the shared mobility. 
 
