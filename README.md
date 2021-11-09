@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm currently a research assistant in National University of Singapore and will enroll as a full time PhD student in Jan/2022 supervised by Dr. Liu Yang in ISEM&CEE. 
+I'm currently a research engineer in National University of Singapore and will enroll as a full time PhD student in Jan/2022 supervised by Dr. Liu Yang in ISEM&CEE. 
 
 My research interests mainly concerning network modeling and optimization and their implementation in transportation research, especially the shared mobility. 
 
