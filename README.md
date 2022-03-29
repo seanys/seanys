@@ -2,7 +2,7 @@
 
 I am a PhD student studying in the Department of Industrial Systems Engineering and Management, National University of Singapore. 
 
-Currently, my research interests mainly concern network modeling and optimization and their implementation in transportation research especially shared mobility.
+Currently, my research interests mainly concern optimization and management in transportation research. 
 
 If you have anything question about my repositories, welcome to email yang_shan@u.nus.edu.
 
